@@ -26,7 +26,11 @@ For each room
 &nbsp;&nbsp;&nbsp;&nbsp; if there is one possible connecting point left, it must become a connection
 &nbsp;&nbsp;&nbsp;&nbsp; if there are no connecting points left, a random disconnection must becom a connection
 
-Collapse expandedGrid into collapsedGrid
+Collapse expandedGrid into collapsedGrid, each tile assigned a value based on bordering connections and their position
+
+&nbsp;&nbsp;&nbsp;&nbsp;1  
+10[ ] 2  
+&nbsp;&nbsp;&nbsp;&nbsp;5  
 <br/><br/>
 
 ***\*value to be determined***
