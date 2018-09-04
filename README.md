@@ -25,6 +25,8 @@ For each room
 &nbsp;&nbsp;&nbsp;&nbsp; there is X* percent chance of a connection (1), or else it is disconnected (-1)
 &nbsp;&nbsp;&nbsp;&nbsp; if there is one possible connecting point left, it must become a connection
 &nbsp;&nbsp;&nbsp;&nbsp; if there are no connecting points left, a random disconnection must becom a connection
+
+Collapse expandedGrid into collapsedGrid
 <br/><br/>
 
 ***\*value to be determined***
